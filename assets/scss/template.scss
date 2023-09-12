@@ -100,16 +100,16 @@ ul.network-icon .big-icon {
 .avatar {
   width: auto;
   height: auto;
-  max-width: 300px;
-  max-height: 300px;
+  max-width: 500px;
+  max-height: 500px;
 }
 
 // Prevent stretching on About page with narrow container
 .wg-about .avatar {
   width: auto;
   height: auto;
-  max-width: 300px;
-  max-height: 300px;
+  max-width: 500px;
+  max-height: 500px;
 }
 
 // Smaller Name and Role text on About page than in homepage `about.avatar` widget
