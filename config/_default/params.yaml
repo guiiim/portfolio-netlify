@@ -43,7 +43,8 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. All the informations are about Guilherme Magalhães'
+    #notice: '© {year} Me. All the informations are about Guilherme Magalhães'
+    notice: 'Thanks for passing by. Don't forget to be in touch.'
     license:
       enable: false
       allow_derivatives: false
