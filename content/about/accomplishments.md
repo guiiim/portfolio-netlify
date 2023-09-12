@@ -132,5 +132,5 @@ item:
     url: https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science
 
 design:
-  columns: '3'
+  columns: '2'
 ---
