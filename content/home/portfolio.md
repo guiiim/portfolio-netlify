@@ -28,12 +28,16 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Python
+      tag: py
+    - name: R
+      tag: r
+    - name: Power BI
+      tag: pbi
+    - name: Power Apps
+      tag: papp
+    - name: Power Automate
+      tag: paut
 
 design:
   columns: '1'

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Guilherme Augusto Magalhães
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: Digital Transformation | Innovation | Business Intelligence
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻
 
 # Organizations/Affiliations
 #organizations:
@@ -18,56 +18,50 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computer Engineer, digital enthusiasts, self-taught, moved by challenges and open to every new experience.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Machine Learning
+- Digital Transformation
+- Power Platform Solutions
+- Business Intelligence
+- 4.0 Industry
 
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+courses:
+  - course: Bachelor in Computer Engineering
+    institution: Pitágoras University
+    year: 2019
+  - course: Electronic Technician 
+    institution: Technical School Liberato Salzano Vieira da Cunha
+    year: 2012
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:guiiimagalhaes@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://www.linkedin.com/in/guilherme-augusto-magalhães/
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: https://instagram.com/guiiim
+  - icon: github
+    icon_pack: fab  
+    link: https://github.com/guiiim
+  - icon: file
+    icon_pack: fas
+    link: files/cv.pdf
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professional with 10 years of experience, working 3 years in digital solutions in a large multi-national company of consumer goods with solid knowledge in requirement analysis, process mapping, development of Business Cases and creation of solutions for data transformation with Power Platform toolkit. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Solid knowledge of UI/UX.
+Work experience in development of digital applications with Power Apps and C#; Data Viz with Power BI; Development of RPAs with UiPath, Power Automate and VBA; Management and implementation of digital projects; Agile and waterfall frameworks; Design Thinking.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+I am a Computer Engineer, digital enthusiasts, self-taught and can work alone or with teams. Moved by challenges and open to every new experience. 
