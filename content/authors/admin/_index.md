@@ -70,4 +70,5 @@ Experience in:
   - Design Thinking
   - UI/UX
 
-I am a Computer Engineer, digital enthusiasts, self-taught and can work alone or with teams. Moved by challenges and open to every new experience. 
+I am a Computer Engineer, digital enthusiasts, self-taught and can work alone or with teams. 
+Moved by challenges and open to every new experience. 

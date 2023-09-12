@@ -30,11 +30,12 @@ experience:
     date_start: '2022-03-01'
     date_end: ''
     description: |2-
-            Responsible for structuring and implementing indicators, guidelines and standards for processes and tools of Brazil factory's Digital Manufacturing area.
-            Responsible for lead and consolidate the digital mindset of Brazil factory, by using a communication plan that gives visibility of the digital solutions and their advantages, and by a training plan to increase the digital capabilities of employees.
-            Responsible for support LATAM South teams in the definition of a roadmap for their digital transformation in manufacturing, with strategies for each step to achieve the maximum performance of the areas in a digital aspect.
-            Responsible for the digital solutions rollout across all BAT’s sites, establishing processes, creating the support documentation, setting up all the requirements and deploying the applications for the end users.
-            Responsible for support the prototyping and development of digital solutions built in Microsoft Power Platform or RPA’s solutions.
+            Responsible for indicators, guidelines and standards of Brazil factory's Digital Manufacturing area.
+            Responsible for lead and consolidate the digital mindset of Brazil factory.
+            Responsible for the training plan to increase the digital capabilities of employees.
+            Responsible for support LATAM South teams in the definition of a roadmap for their digital transformation.
+            Responsible for the digital solutions rollout across all BAT’s sites.
+            Responsible for support the prototyping and development of digital solutions.
 
   - title: Digital Manufacturing Analyst
     company: BAT Brazil
@@ -45,11 +46,11 @@ experience:
     date_end: '2022-02-28'
     description: |2-
           Member of multidisciplinary team focused on management, execution and prospection of innovation projects.
-          Development of User Stories and Product Backlog, subsequent performance in Refinement, for scope definition of projects across manufacturing.
+          Development of User Stories and Product Backlog, for scope definition of projects across manufacturing.
           Development of RPAs to automatize daily routines, with reduction of 40 hours per month of activities.
-          Responsible for the definition and execution of Business Intelligence project for Human Resources area, with reduction of 60 hours per month of activities.
-          Responsible for the definition and management of digitalization project for Production Planning area, with reduction of 80 hours per month of activities.
-          Responsible for the execution of automatization project for Production Performance area, with reduction of 10 hours per month of activities.
+          Responsible for the definition and execution of Business Intelligence project for Human Resources area.
+          Responsible for the definition and management of digitalization project for Production Planning area.
+          Responsible for the execution of automatization project for Production Performance area.
           Use of agile methodology (SCRUM and Kanban) for project execution, and traditional (waterfall) for project management.
           Use of Design Thinking methodology with stakeholders to process mapping, problem definition and activities scope.
 
