@@ -19,6 +19,6 @@ author: admin
 ---
 
 👋 Hi, there! I'm **Guilherme**, a digital transformation professional.
-{style="font-size: 1.2rem; background: #000000; background: linear-gradient(to right, #000000 0%, #00000F 30%, #0000FF 60%, #000FFF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #000000; background: linear-gradient(to right, #00000F 0%, #00009F 30%, #0000F9 60%, #0000FF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 💻
