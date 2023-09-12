@@ -1,8 +1,8 @@
 ---
-title: Pokémon
+title: Atmosphere
 summary: Pokémon API study
 tags:
-  - Python
+  - papp
 date: 2022-01-01
 external_link: https://github.com/guiiim/Pok-mon
 ---

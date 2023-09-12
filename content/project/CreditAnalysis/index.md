@@ -1,5 +1,5 @@
 ---
-title: Pokémon
+title: Credit Analysis
 summary: Pokémon API study
 tags:
   - Python

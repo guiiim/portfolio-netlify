@@ -1,8 +1,8 @@
 ---
-title: Pokémon
-summary: Pokémon API study
+title: AMBos
+summary: App for 
 tags:
-  - Python
+  - papp
 date: 2022-01-01
 external_link: https://github.com/guiiim/Pok-mon
 ---

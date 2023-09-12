@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: Decision and Random Tree
 summary: Write about your project here...
 tags:
   - NLP
