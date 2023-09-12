@@ -86,6 +86,7 @@ ul.network-icon .big-icon {
 // Narrower container for Hello World sections (primarily Blank widget content).
 @media (min-width: 800px) {
   .home-section .container {
+    width: auto;
     max-width: 880px;
   }
 }
