@@ -30,11 +30,18 @@ experience:
     date_start: '2022-03-01'
     date_end: ''
     description: |2-
-          * Responsible for structuring and implementing indicators, guidelines and standards for processes and tools of Brazil factory's Digital Manufacturing area.
-          * Responsible for lead and consolidate the digital mindset of Brazil factory, by using a communication plan that gives visibility of the digital solutions and their advantages, and by a training plan to increase the digital capabilities of employees.
-          * Responsible for support LATAM South teams in the definition of a roadmap for their digital transformation in manufacturing, with strategies for each step to achieve the maximum performance of the areas in a digital aspect.
-          * Responsible for the digital solutions rollout across all BAT’s sites, establishing processes, creating the support documentation, setting up all the requirements and deploying the applications for the end users.
-          * Responsible for support the prototyping and development of digital solutions built in Microsoft Power Platform or RPA’s solutions.
+            * Responsible for structuring and implementing indicators, guidelines and 
+          standards for processes and tools of Brazil factory's Digital Manufacturing area.
+            * Responsible for lead and consolidate the digital mindset of Brazil factory, 
+          by using a communication plan that gives visibility of the digital solutions and their advantages, 
+          and by a training plan to increase the digital capabilities of employees.
+            * Responsible for support LATAM South teams in the definition of a roadmap 
+          for their digital transformation in manufacturing, with strategies for each step 
+          to achieve the maximum performance of the areas in a digital aspect.
+            * Responsible for the digital solutions rollout across all BAT’s sites, 
+          establishing processes, creating the support documentation, setting up all the requirements and deploying the applications for the end users.
+            * Responsible for support the prototyping and development 
+          of digital solutions built in Microsoft Power Platform or RPA’s solutions.
 
   - title: Digital Manufacturing Analyst
     company: BAT Brazil
