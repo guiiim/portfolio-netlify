@@ -62,7 +62,7 @@ social:
 Professional with 10 years of experience, working 3 years in digital solutions in a large multi-national company of consumer goods with solid knowledge in requirement analysis, process mapping, development of Business Cases and creation of solutions for data transformation with Power Platform toolkit. 
 
 Experience in:
-  - Work experience in development of digital applications with Power Apps and C#
+  - Development of digital applications with Power Apps and C#
   - Data Viz with Power BI
   - Development of RPAs with UiPath, Power Automate and VBA
   - Management and implementation of digital projects
