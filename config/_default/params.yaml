@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}. Thanks for passing by. Don't forget to be in touch.'
+    notice: '© {year}. Thanks for passing by, don't forget to be in touch.'
     license:
       enable: false
       allow_derivatives: false
