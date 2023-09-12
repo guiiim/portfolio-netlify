@@ -51,7 +51,7 @@ experience:
           Responsible for the definition and execution of Business Intelligence project for Human Resources area.
           Responsible for the definition and management of digitalization project for Production Planning area.
           Responsible for the execution of automatization project for Production Performance area.
-          Use of agile methodology (SCRUM and Kanban) for project execution, and traditional (waterfall) for project management.
+          Use of agile methodology (SCRUM and Kanban) for project execution, and waterfall for project management.
           Use of Design Thinking methodology with stakeholders to process mapping, problem definition and activities scope.
 
   - title: Maintenance Analyst
