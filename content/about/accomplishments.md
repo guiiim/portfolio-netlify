@@ -133,4 +133,5 @@ item:
 
 design:
   columns: '1'
+  widht: 500px
 ---
