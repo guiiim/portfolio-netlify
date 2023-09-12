@@ -61,7 +61,6 @@ social:
 
 Professional with 10 years of experience, working 3 years in digital solutions in a large multi-national company of consumer goods with solid knowledge in requirement analysis, process mapping, development of Business Cases and creation of solutions for data transformation with Power Platform toolkit. 
 
-- Solid knowledge of UI/UX
 Experience in:
   - Work experience in development of digital applications with Power Apps and C#
   - Data Viz with Power BI
@@ -69,5 +68,6 @@ Experience in:
   - Management and implementation of digital projects
   - Agile and waterfall frameworks
   - Design Thinking
+  - UI/UX
 
 I am a Computer Engineer, digital enthusiasts, self-taught and can work alone or with teams. Moved by challenges and open to every new experience. 
