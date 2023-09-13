@@ -1,8 +1,8 @@
 ---
-title: Pokémon
-summary: Pokémon API study
+title: WeApp
+summary: App created to centralize all others apps divided by category
 tags:
-  - Python
+  - papp
 date: 2022-01-01
 external_link: https://github.com/guiiim/Pok-mon
 ---

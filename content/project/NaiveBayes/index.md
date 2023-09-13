@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Naive Bayes
+summary: Application study of classification algorithms
 tags:
-  - ML
+  - py
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/guiiim/Python/tree/main/Naive%20Bayes
 ---

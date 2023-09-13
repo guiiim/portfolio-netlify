@@ -1,8 +1,8 @@
 ---
-title: Pokémon
-summary: Pokémon API study
+title: Digital PM Card
+summary: Maintenance analysis tool for prodcution/maintenance team
 tags:
-  - Python
+  - papp
 date: 2022-01-01
 external_link: https://github.com/guiiim/Pok-mon
 ---

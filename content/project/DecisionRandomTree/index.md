@@ -1,8 +1,8 @@
 ---
 title: Decision and Random Tree
-summary: Write about your project here...
+summary: Study regarding Decision Tree and Random Forest
 tags:
-  - NLP
+  - py
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/guiiim/Python/tree/main/Estudo%20sobre%20Decision%20Tree%20e%20Random%20Forest
 ---

@@ -1,8 +1,8 @@
 ---
-title: Pokémon
-summary: Pokémon API study
+title: WebScrapping
+summary: Project to scrap the Ibovespa index and five most valuable actives from the day.
 tags:
-  - Python
+  - py
 date: 2022-01-01
-external_link: https://github.com/guiiim/Pok-mon
+external_link: https://github.com/guiiim/WebScrapping
 ---
