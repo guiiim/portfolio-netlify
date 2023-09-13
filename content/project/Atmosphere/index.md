@@ -1,6 +1,6 @@
 ---
 title: Atmosphere
-summary: Pokémon API study
+summary: Portal for capture ideas and manage projects
 tags:
   - papp
 date: 2022-01-01

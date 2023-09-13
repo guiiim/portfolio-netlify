@@ -1,6 +1,6 @@
 ---
 title: AMBos
-summary: App for 
+summary: Check list app for daily use
 tags:
   - papp
 date: 2022-01-01
