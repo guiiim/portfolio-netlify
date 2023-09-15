@@ -38,6 +38,8 @@ content:
       tag: papp
     - name: Power Automate
       tag: paut
+    - name: RPAs
+      tag: rpa      
 
 design:
   columns: '1'
